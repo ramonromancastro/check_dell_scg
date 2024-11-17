@@ -18,7 +18,7 @@
 # @package    nagios-plugins
 # @author     Ramon Roman Castro <ramonromancastro@gmail.com>
 # @link       http://www.rrc2software.com
-# @link       https://github.com/ramonromancastro/nagios-plugins
+# @link       https://github.com/ramonromancastro/check_dell_scg
 
 HOSTNAME=localhost
 DOMAIN=localhost
@@ -26,7 +26,7 @@ USERNAME=
 PASSWORD=
 PORT=5700
 
-VERSION='0.2'
+VERSION='0.3'
 
 NAGIOS_OK=0
 NAGIOS_WARNING=1
